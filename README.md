@@ -53,7 +53,7 @@ Os nomes, endereços e serviços representados são exemplos fictícios. Nenhum 
 - fundamentos de cloud computing;
 - segurança da informação.
 
-Python e SQL não são atribuídos ao projeto por falta de confirmação.
+O projeto concentrou-se em redes, virtualização, administração de sistemas e segurança da informação.
 
 ## Segurança e confidencialidade
 
@@ -80,7 +80,7 @@ Python e SQL não são atribuídos ao projeto por falta de confirmação.
 
 O projeto proporcionou experiência prática na integração de computadores, centralização de recursos, organização de uma rede e administração de um ambiente virtualizado. Também reforçou a importância de controle de acesso, documentação e proteção de informações de infraestrutura.
 
-Não são apresentados indicadores quantitativos porque os registros de medição originais não estão disponíveis.
+Os resultados foram avaliados qualitativamente a partir da integração dos computadores, da centralização de recursos e da organização do ambiente virtualizado.
 
 ## Melhorias futuras
 
